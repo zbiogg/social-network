@@ -9,7 +9,7 @@
 
 ## Demo
 
-View Demo at **[ZBIOGGG](https://zbioiggg.com)**
+View Demo at **[ZBIOGGG](https://zbioggg.com)**
 
 ## About Laravel
 
